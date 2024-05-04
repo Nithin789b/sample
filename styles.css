@@ -1,0 +1,75 @@
+body,html{
+    font-weight: 400;
+    font-size: 16px;
+    margin: 0%;
+    height: 100%;
+    color:black;
+}
+.img1,.img2,.img3,.img4
+{
+    background-position: relative;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.img1{
+    background-image: url("nature.jpg");
+    min-height: 100%;
+}
+.img2{
+    background-image: url("mountan.jpg");
+    min-height: 100%;
+
+}
+.img3{
+    background-image: url("birds.jpg");
+    min-height: 100%;
+
+}
+.img4{
+    background-image: url("animal.jpg");
+    min-height: 100%;
+
+}
+.text{
+    top:20%;
+    text-align: center;
+    letter-spacing: 8px;
+    color: black;
+    text-transform: uppercase;
+    width: 100%;
+
+}
+section{
+    text-align: justify;
+    padding:  50px 50px;
+
+
+
+}
+.nature
+{
+background-color:#FCFAE3;
+
+}
+.mountains{
+    background-color:#FFD9A3;
+}
+.birds{
+    background-color:#30A087;
+}
+.animals{
+    background-color:#586665;
+}
+.nature   h1 ,p{
+    color:black;
+}
+h1{
+    text-align: center;
+}
+.border p{
+    margin-top: 0px;
+}
+.border p {
+text-align: center;
+}
