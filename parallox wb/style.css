@@ -1,0 +1,82 @@
+body {
+    display: block;
+    margin: 8px;
+}
+
+
+.place{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    height: 150vh;
+    width: 100%;
+    margin: 0px;
+background-image:url(7places.jpg);
+background-size:cover;
+background-position: center;
+background-attachment: fixed;
+text-align:center;
+
+}
+.place1{
+    
+    height: 150vh;
+    width: 100%;
+    background-image: url(tajmahal.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.place2{
+    height: 150vh;
+    width: 100%;
+    background-image: url(redfort.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.place3{
+    color:white;
+    height: 150vh;
+    width: 100%;
+    background-image: url(ajanta.jpg);
+    background-size: cover;
+    background-position: bottom;
+    background-attachment: fixed;
+}
+.place4{
+    color: aliceblue;
+    height: 150vh;
+    width: 100%;
+    background-image: url(gate.jpg);
+    background-size: cover;
+    background-position:top;
+    background-attachment: fixed;
+}
+.place5{
+    color:white;
+    height: 150vh;
+    width: 100%;
+    background-image: url(qutub.jpeg);
+    background-size: cover;
+    background-position: top;
+    background-attachment: fixed;
+}
+.place6{
+    color: white;
+    height: 150vh;
+    width: 100%;
+    background-image: url(hawa.jpeg);
+    background-size: cover;
+    background-position: top;
+    background-attachment: fixed;
+}
+.place7{
+    height: 150vh;
+    width: 100%;
+    background-image: url(victoria.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+body{
+    font-size:xx-large;
+}
